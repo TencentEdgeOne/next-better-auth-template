@@ -13,9 +13,10 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Next.js Better Auth Template",
+  title: "Next.js Better Auth Template | EdgeOne Makers",
   description:
-    "Authentication template with Better Auth, shadcn/ui, and Supabase",
+    "Authentication template with Better Auth, shadcn/ui, and Supabase · Demo only · EdgeOne Makers",
+  keywords: "EdgeOne Makers, Demo only",
   icons: {
     icon: "/favicon.svg",
   },
